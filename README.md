@@ -37,16 +37,6 @@ I'm a **Senior Software Engineer with 16+ years of experience** in web applicati
 
 I build, maintain, and optimize reliable web applications, develop REST APIs, troubleshoot complex bugs, and improve existing systems. I also work with Vue.js, JavaScript, jQuery, Tailwind CSS, and Bootstrap to create responsive and user-friendly interfaces.
 
-### 💡 What I Bring
-- Backend development using PHP, Laravel, and CodeIgniter
-- Database design and MySQL query optimization
-- REST API development and third-party integrations
-- Bug fixing, legacy system maintenance, and performance optimization
-- Responsive frontend development using Vue.js, Tailwind CSS, and Bootstrap
-- Version control with Git and GitHub
-
-I'm passionate about writing clean, maintainable code, solving challenging technical problems, and continuously learning modern development tools.
-
 📌 **Open to:** Remote opportunities, freelance projects, and collaboration on web development.
 
 ## 🌐 Find Me Online
