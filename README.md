@@ -170,14 +170,15 @@ A comprehensive accommodation booking platform designed to help travelers discov
 
 I developed this project using CodeIgniter and MySQL, focusing on a structured, reliable, and user-friendly web application for accommodation listings and travel-related services.
 
-Technologies Used: CodeIgniter, PHP, MySQL, JavaScript, jQuery, HTML, CSS
-
 Key Features:
 Accommodation listings for hotels, villas, and holiday apartments
 Property information and destination-based browsing
 Database-driven accommodation management
 Dynamic web pages and user-friendly navigation
 Backend development using CodeIgniter jQuery , JS and MySQL
+
+_____________________________________________________________________________________________________  
+
 
 ## 🌐 Find Me Online
 
