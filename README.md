@@ -27,10 +27,6 @@ I'm a software engineer with **16+ years of experience** building, maintaining, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📂 Featured Projects
-
-- **[Ali Safdar Portfolio](https://github.com/alisafdar00/ali-safdar-portfolio)** — My personal portfolio built with Vue.js.
-
 ## 👋 About Me
 
 I'm a **Senior Software Engineer with 16+ years of experience** in web application development, specializing in PHP, Laravel, CodeIgniter, and MySQL.
