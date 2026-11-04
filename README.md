@@ -43,7 +43,7 @@ I build, maintain, and optimize reliable web applications, develop REST APIs, tr
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-safdar-22312ba9/)
 - 💻 [GitHub Repositories](https://github.com/alisafdar00)
-
+- 🌐 [Portfolio Website](https://marklet.so/senior-php)
 
 ## 📈 GitHub Statistics
 
