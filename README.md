@@ -58,7 +58,7 @@ Key Features:
 Industry: Background Screening, HR & Compliance
 
 Project Focus: Web Application Development, PHP Backend Development, Database Management, System Maintenance, and Bug Fixing
-Backend development using Laravel API , CodeIgniter , jQuery , JS , HRML5 , Bootstrap , Custom CSS and MySQL
+Backend development using Laravel API , CodeIgniter , jQuery , JS , HTML5 , Bootstrap , Custom CSS and MySQL
  _____________________________________________________________________________________________________
     
 - ClearCheck – UK Online DBS Check Platform (https://clearcheck.co.uk/)
@@ -77,7 +77,7 @@ Key Features:
 - User-friendly website navigation
 
 Industry: Background Screening & HR Services
-Backend development using Laravel API , CodeIgniter , jQuery , JS , HRML5 , Bootstrap , Custom CSS and MySQL
+Backend development using Laravel API , CodeIgniter , jQuery , JS , HTML5 , Bootstrap , Custom CSS and MySQL
 
 _____________________________________________________________________________________________________
 
