@@ -184,7 +184,7 @@ ________________________________________________________________________________
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-safdar-22312ba9/)
 - 💻 [GitHub Repositories](https://github.com/alisafdar00)
-- 🌐 [Portfolio Website](https://marklet.so/senior-php)
+- 🌐 [Website](https://digitalnorthcode.com/)
 
 ## 📈 GitHub Statistics
 
